@@ -38,7 +38,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https:/hashcode.space"><b>HashCode.space - Minecraft & FiveM resources for servers</b></a></td>
+      <td><a href="https://hashcode.space"><b>HashCode.space - Minecraft & FiveM resources for servers</b></a></td>
       <td>01.05.2025</td>
       <td>Java, Lua, TypeScript, NestJS, MySQL, VueJS, TailwindCSS</td>
     </tr>
