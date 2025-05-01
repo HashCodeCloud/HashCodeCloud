@@ -5,6 +5,7 @@
 <p align="center">
    <!-- for-the-badge -->
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
    <img alt="gradle" src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /> 
    
    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
@@ -37,24 +38,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://yshop.pl"><b>yshop.pl - Free ItemShop for game servers</b></a></td>
+      <td><a href="https:/hashcode.cloud"><b>HashCode.cloud - Minecraft & FiveM resources for servers</b></a></td>
       <td>10.07.2021</td>
-      <td>TypeScript, NestJS, MySQL, VueJS, TailwindCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/WiktorDev/node-payments-lib3.0"><b>node-payments-lib3.0</b></a></td>
-      <td>22.01.2023</td>
-      <td>NodeJS, TypeScript, Axios</td>
-    </tr>
-    <tr>
-      <td><a href="https://gdziebusik.pl"><b>gdziebusik.pl</b></a></td>
-      <td>01.12.2023</td>
-      <td>Kotlin, Ktor, Svelte, TailwindCSS, Flutter, Dart</td>
-    </tr>
-    <tr>
-      <td><a href="https://exotia.net"><b>exotia.net - minecraft server</b></a></td>
-      <td>01.12.2023 - 07.03.2024 [*]</td>
-      <td>Java, MySQL, Rust, VueJS, TailwindCSS, Qemu</td>
+      <td>Java, Lua, TypeScript, NestJS, MySQL, VueJS, TailwindCSS</td>
     </tr>
   </tbody>
 </table>
