@@ -20,8 +20,6 @@
    <img alt="JSON" src="https://img.shields.io/badge/JSON-3D3D3D?style=flat-square&logo=json&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-015F8B?style=flat-square&logo=mysql&logoColor=white" />
    <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white" />
-   <img alt="Qemu" src="https://img.shields.io/badge/-Qemu-FF6600?style=flat-square&logo=Qemu&logoColor=white" />
-   <img alt="OPNSense" src="https://img.shields.io/badge/OPNSense-E34320?style=flat-square&logo=opnsense&logoColor=white" />
    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white" />
    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
